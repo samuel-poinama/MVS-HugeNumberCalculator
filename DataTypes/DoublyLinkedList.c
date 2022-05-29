@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "DoublyLinkedList.h"
-
+//
 #define START_ASCII_DIGIT 48
 #define END_ASCII_DIGIT 58
 #define MAX_DIGIT_STRING_SIZE 512
